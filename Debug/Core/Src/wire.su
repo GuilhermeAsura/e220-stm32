@@ -1,0 +1,7 @@
+../Core/Src/wire.c:64:9:wire_init	32	static
+../Core/Src/wire.c:96:9:wire_deinit	8	static
+../Core/Src/wire.c:111:9:wire_read	16	static
+../Core/Src/wire.c:129:9:wire_write	16	static
+../Core/Src/wire.c:146:9:wire_clock_init	32	static
+../Core/Src/wire.c:169:9:wire_clock_deinit	8	static
+../Core/Src/wire.c:184:9:wire_clock_write	16	static

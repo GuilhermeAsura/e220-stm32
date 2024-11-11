@@ -1,0 +1,11 @@
+../Core/Src/spi.c:50:16:a_spi_cs_init	1
+../Core/Src/spi.c:75:9:spi_init	5
+../Core/Src/spi.c:126:9:spi_deinit	2
+../Core/Src/spi.c:149:9:spi_write_cmd	3
+../Core/Src/spi.c:186:9:spi_write	4
+../Core/Src/spi.c:235:9:spi_write_address16	4
+../Core/Src/spi.c:284:9:spi_read_cmd	3
+../Core/Src/spi.c:321:9:spi_read	4
+../Core/Src/spi.c:370:9:spi_read_address16	4
+../Core/Src/spi.c:420:9:spi_transmit	3
+../Core/Src/spi.c:458:9:spi_write_read	5

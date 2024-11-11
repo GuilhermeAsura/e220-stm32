@@ -1,0 +1,12 @@
+../Core/Src/driver_llcc68_lora.c:48:9:llcc68_lora_irq_handler	2
+../Core/Src/driver_llcc68_lora.c:68:9:llcc68_lora_init	25
+../Core/Src/driver_llcc68_lora.c:342:9:llcc68_lora_deinit	2
+../Core/Src/driver_llcc68_lora.c:361:9:llcc68_lora_sleep	2
+../Core/Src/driver_llcc68_lora.c:380:9:llcc68_lora_wake_up	2
+../Core/Src/driver_llcc68_lora.c:401:9:llcc68_lora_set_continuous_receive_mode	7
+../Core/Src/driver_llcc68_lora.c:461:9:llcc68_lora_set_shot_receive_mode	7
+../Core/Src/driver_llcc68_lora.c:521:9:llcc68_lora_set_sent_mode	3
+../Core/Src/driver_llcc68_lora.c:549:9:llcc68_lora_sent	2
+../Core/Src/driver_llcc68_lora.c:571:9:llcc68_lora_run_cad	3
+../Core/Src/driver_llcc68_lora.c:599:9:llcc68_lora_get_status	2
+../Core/Src/driver_llcc68_lora.c:624:9:llcc68_lora_check_packet_error	2

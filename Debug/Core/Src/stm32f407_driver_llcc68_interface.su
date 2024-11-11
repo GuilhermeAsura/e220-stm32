@@ -1,0 +1,12 @@
+../Core/Src/stm32f407_driver_llcc68_interface.c:51:9:llcc68_interface_spi_init	8	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:63:9:llcc68_interface_spi_deinit	8	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:79:9:llcc68_interface_spi_write_read	24	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:92:9:llcc68_interface_reset_gpio_init	8	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:104:9:llcc68_interface_reset_gpio_deinit	8	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:117:9:llcc68_interface_reset_gpio_write	16	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:129:9:llcc68_interface_busy_gpio_init	8	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:141:9:llcc68_interface_busy_gpio_deinit	8	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:154:9:llcc68_interface_busy_gpio_read	16	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:164:6:llcc68_interface_delay_ms	16	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:174:6:llcc68_interface_debug_print	272	static
+../Core/Src/stm32f407_driver_llcc68_interface.c:196:6:llcc68_interface_receive_callback	16	static
