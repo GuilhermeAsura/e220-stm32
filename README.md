@@ -48,12 +48,3 @@ O principal desafio enfrentado foi a integração do driver para o chip LLCC68 a
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Caso queira sugerir melhorias ou reportar problemas, sinta-se à vontade para abrir uma issue ou um pull request.
-
-## 📜 Licença
-
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-Caso queira adicionar mais informações, como resultados de testes ou melhorias futuras, me avise! 🚀
-
